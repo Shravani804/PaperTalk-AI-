@@ -1,0 +1,6 @@
+*.faiss
+*.pkl
+history
+aau_token
+.nonadmin
+*.pdf
