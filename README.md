@@ -1,1 +1,1 @@
-# PaperTalk-AI-
+# PaperTalk-AI
